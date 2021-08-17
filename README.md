@@ -1,6 +1,8 @@
 # kubernetes_go
 
-A new Flutter project.
+A new Flutter project
+
+Video Link for Flutter App: https://www.linkedin.com/posts/srivastava-shivansh_worldrecordholder-training-internship-activity-6833357566358147073-6L2n
 
 ## Getting Started
 
