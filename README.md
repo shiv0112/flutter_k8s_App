@@ -7,16 +7,16 @@ A new Flutter project where I have made an app for android and iOS devices:
 
 
 # App Interface
-![alt text]{"https://github.com/shiv0112/flutter_k8s_App/blob/main/screenshots/app%20interface.png"}
+![alt text](https://github.com/shiv0112/flutter_k8s_App/blob/main/screenshots/app%20interface.png)
 
 # Interface to launch a Kubernetes deployment
-![alt text]{"https://github.com/shiv0112/flutter_k8s_App/blob/main/screenshots/deploy.png"}
+![alt text](https://github.com/shiv0112/flutter_k8s_App/blob/main/screenshots/deploy.png)
 
 ## Also an interface fro running normal Linux Command Lind Interface
-![alt text]{"https://github.com/shiv0112/flutter_k8s_App/blob/main/screenshots/linux.png"}
+![alt text](https://github.com/shiv0112/flutter_k8s_App/blob/main/screenshots/linux.png)
 
 ## Video Demo
-![alt text]{"https://github.com/shiv0112/flutter_k8s_App/blob/main/screenshots/1629199397858.gif"}
+![alt text](https://github.com/shiv0112/flutter_k8s_App/blob/main/screenshots/1629199397858.gif)
 
 # What I've learnt from this project
 -> How to build a flutter application
