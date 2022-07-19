@@ -1,8 +1,11 @@
 # kubernetes_go
 
 A new Flutter project where I have made an app for android and iOS devices:
+
 -> The app is to control a kubernetes service.
+
 -> The user is provided with a simple clean flutter app to perform basic tasks of kubernetes.
+
 -> The user does not need to know CLI commands to interact with kubernetes cluster.
 
 
@@ -12,7 +15,7 @@ A new Flutter project where I have made an app for android and iOS devices:
 # Interface to launch a Kubernetes deployment
 ![alt text](https://github.com/shiv0112/flutter_k8s_App/blob/main/screenshots/deploy.png)
 
-## Also an interface fro running normal Linux Command Lind Interface
+## Also an interface for running normal Linux Command Line Interface
 ![alt text](https://github.com/shiv0112/flutter_k8s_App/blob/main/screenshots/linux.png)
 
 ## Video Demo
@@ -20,7 +23,9 @@ A new Flutter project where I have made an app for android and iOS devices:
 
 # What I've learnt from this project
 -> How to build a flutter application
+
 -> How to integrate backend of kubernetes cluster with flutter app
+
 -> How to integrate Linux with app
 
 
